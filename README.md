@@ -3,7 +3,7 @@ daftar-biodata-siswa
 Daftar Peserta Dicoding Bootcamp 2024
 --
 
-*Berikut Data Peserta Dicoding Bootcamp*
-- Riky Mochammad Arif
-- Nadita Sekar Valerina
-- Syahid Muhammad Ummar
+*Berikut 3 Batch Data Dicoding Bootcamp*
+- Bacth 1
+- Batch 2
+- Batch 3
